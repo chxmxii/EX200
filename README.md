@@ -1,6 +1,11 @@
 # RHCSA Study Notes
 
-![](assets/image.png)
+
+<div style="text-align: center;">
+  <img src="assets/image.png" alt="image">
+</div>
+
+
 
 A structured collection of study notes covering the Red Hat Certified System Administrator (RHCSA) exam objectives, organized by exam domain.
 
